@@ -29,7 +29,7 @@ html, body {
 	display: inline-block;
 	text-align: center;	
 }
-.block-content  {
+.block-content {
 	min-width: 100vw;
 	padding: 60px 80px;
 	padding-left: 115px;	
@@ -78,7 +78,7 @@ p, h3 {
 	background-image: url('nav-fon.png');
 	height: 170px;
 }
-.nav  a{
+.nav  a {
 	text-decoration: none;
 	color: white;
 	font-family:  open !important;
