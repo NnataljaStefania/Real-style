@@ -1,2 +1,2 @@
 # Real-style
-Real-style is a page contain design and code
+Real-style is a page containing design and code
